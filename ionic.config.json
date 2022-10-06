@@ -1,0 +1,7 @@
+{
+  "name": "emotifitApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
