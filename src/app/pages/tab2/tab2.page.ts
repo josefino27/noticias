@@ -19,8 +19,8 @@ export class Tab2Page implements OnInit {
   constructor(private news: NewsService) { }
 
   ngOnInit() {
-    
-    this.noticias[2];
+
+    this.cargarNoticias(this.categorias[2]);
 
   }
 
